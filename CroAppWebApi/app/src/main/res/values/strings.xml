@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">CroAppWebApi</string>
+    <string name="syncUsersButton">Синхронизирај корисници</string>
+    <string name="syncQuestionsButton">Синхронизирај прашања</string>
+    <string name="syncAwardsButton">Синхронизирај награди</string>
+    <string name="username">Корисничко име</string>
+    <string name="password">Лозинка</string>
+    <string name="loginButtonText">Најави се</string>
+    <string name="answer_tv">Одговорете на прашањето</string>
+    <string name="submit_answer">Продолжи</string>
+    <string name="lorem_ipsum">Содржина на полисата:\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean iaculis vestibulum tortor in tincidunt. Donec eget lectus at lorem aliquet fringilla sit amet vitae ipsum. Nulla sit amet vestibulum magna. Fusce a vestibulum massa. In sit amet ligula ac nisl aliquet finibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Maecenas ac sem et libero euismod consectetur. Etiam suscipit quis est in iaculis. Cras sit amet turpis mattis, tristique augue vel, facilisis turpis. Phasellus massa felis, luctus a massa ac, tincidunt varius sem. Suspendisse potenti. Cras in turpis ultricies, consectetur diam at, accumsan lorem. Donec malesuada diam et massa ullamcorper consequat. Nulla vel sem nec augue tristique scelerisque. Fusce porttitor nec ex at feugiat. Duis erat nisl, aliquet a suscipit eu, vulputate nec arcu. Suspendisse augue velit, molestie eleifend dui vel, efficitur dictum elit. Cras sagittis commodo elit. Donec consequat ultricies massa et aliquet. Suspendisse rutrum rhoncus euismod. Fusce convallis sem porttitor sagittis efficitur. Ut dolor diam, pharetra aliquam diam ac, lacinia luctus ipsum. Integer aliquet congue tortor, nec facilisis massa blandit nec. Aliquam ac dolor augue. Praesent a tincidunt urna, ac accumsan erat. Duis finibus tortor nec arcu dapibus, in mattis dui fermentum. Sed eu scelerisque augue. Mauris turpis est, rhoncus quis imperdiet sed, vulputate sit amet ipsum. Vestibulum tortor lectus, venenatis sit amet leo a, vestibulum vulputate felis. Vivamus id eros augue. Duis consectetur urna mauris, ac commodo dui ultricies quis. Fusce nec neque eu tellus pharetra ullamcorper id eu libero. Donec quis euismod massa. Nam maximus pharetra erat, at porta magna tempus eu. Mauris ut quam felis. Nam at arcu leo. Donec eget bibendum mi, et mollis urna. Vestibulum in feugiat sapien. Quisque et massa congue, vestibulum erat non, auctor lacus. Pellentesque et nisl id ex feugiat consectetur. Sed at diam massa. Ut pellentesque turpis lectus, id tempus lacus laoreet quis. Mauris consectetur porttitor dui. Nullam velit lacus, luctus et posuere ut, finibus quis nibh. Vestibulum aliquet, est quis facilisis bibendum, arcu risus ullamcorper lorem, at malesuada leo libero sit amet metus. Pellentesque lacinia pellentesque purus, eget tristique eros euismod a. Sed vestibulum cursus est, pretium pulvinar nisi volutpat vel. Nunc vel lacinia lectus. Donec dapibus sapien urna, ac pulvinar lectus feugiat sit amet. Donec sit amet facilisis augue, ac consectetur nulla. Mauris rutrum feugiat risus. Vivamus tincidunt condimentum nulla ac rutrum. Mauris rhoncus vel orci quis fringilla. Fusce lobortis massa posuere mauris lobortis, sed mattis mauris hendrerit. Fusce cursus posuere nisi sollicitudin ultrices. Aliquam vehicula orci enim, vel placerat nisl tincidunt sit amet. Nullam elit risus, facilisis sit amet tempus eu, iaculis vitae nulla. Sed metus ipsum, maximus quis malesuada quis, sagittis vel dolor. Aliquam euismod sapien sit amet feugiat tristique. Nulla nunc risus, laoreet quis lacus eget, iaculis venenatis augue. Nam magna dolor, porttitor nec eleifend a, ornare a orci. Suspendisse nec consectetur purus. Vivamus non nunc hendrerit, finibus diam ut, malesuada ex. Maecenas blandit diam mollis sem feugiat, ac tristique lorem mattis. Vivamus bibendum elit at luctus commodo.</string>
+    <string name="accept_agreement">Дали ги прифаќате условите?</string>
+    <string name="enter_contact_tv">Внесете ги вашите податоци</string>
+    <string name="phone">Телефон: (*)</string>
+    <string name="email">E-mail адреса:</string>
+    <string name="nameSurname">Име и презиме: (*)</string>
+    <string name="congratulations">ЧЕСТИТКИ!\nВашата награда е:</string>
+    <string name="test">TEST</string>
+    <string name="title_activity_test">TEST</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="imePrezime">Име и презиме:</string>
+    <string name="exampleName">Vladimir Danoski</string>
+    <string name="emailAdresa">E-mail адреса:</string>
+    <string name="exampleMail">vlade@mail.com</string>
+    <string name="telBroj">Тел. број:</string>
+    <string name="exampleNumber">076537321</string>
+    <string name="category_ask">Постави прашање</string>
+    <string name="category_contacts">Контакти</string>
+    <string name="category_awards">Награди</string>
+    <string name="spinner_title">Одберете категорија:</string>
+    <string name="seePolicy"><u>(Прегледај ја полисата)</u></string>
+    <string name="open" >Open</string>
+    <string name="close">Close</string>
+    <string name="uploadAwards">Прикачи награди</string>
+    <string name="uploadContacts">Прикачи контакти</string>
+    <string name="imeNagrada">Име на награда:</string>
+    <string name="kategorijaNagrada">Категорија:</string>
+    <string name="vrednost">Број на награди:</string>
+    <string name="sync">Синхронизирај</string>
+    <string name="upload">Прикачи</string>
+</resources>
